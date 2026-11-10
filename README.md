@@ -37,6 +37,14 @@
     Выберите пункт «Открыть локальный файл M3U» (или найдите файл через встроенный файловый менеджер) и запустите его.
 ---
 
+## 📥 Установка и запуск (для разработчиков)
+
+1. **Клонируйте репозиторий:**
+   ```bash
+   git clone [https://github.com/ВАШ_ЛОГИН/iptv-russia1-generator.git](https://github.com/ВАШ_ЛОГИН/iptv-russia1-generator.git)
+   cd iptv-russia1-generator
+
+
 ## Sponsor this project
 
 * ko_fi: kansensus
