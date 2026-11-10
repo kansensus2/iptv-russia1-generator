@@ -33,7 +33,7 @@
 
 ---
 
-Sponsor this project
+## Sponsor this project
 
 * **ko_fi: kansensus
 * **https://solscan.io/account/49UemFHmDeW3ESsJedyvir86F8EeHaksTBPnpJdTJdPw
