@@ -34,4 +34,4 @@
 Sponsor this project
 
 ko_fi: kansensus
-custom: ['https://t.me/kansensus', 'https://solscan.io/account/49UemFHmDeW3ESsJedyvir86F8EeHaksTBPnpJdTJdPw']
+https://solscan.io/account/49UemFHmDeW3ESsJedyvir86F8EeHaksTBPnpJdTJdPw
