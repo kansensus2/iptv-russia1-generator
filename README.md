@@ -31,7 +31,9 @@
    git clone [https://github.com/ВАШ_ЛОГИН/iptv-russia1-generator.git](https://github.com/ВАШ_ЛОГИН/iptv-russia1-generator.git)
    cd iptv-russia1-generator
 
+---
+
 Sponsor this project
 
-ko_fi: kansensus
-https://solscan.io/account/49UemFHmDeW3ESsJedyvir86F8EeHaksTBPnpJdTJdPw
+* **ko_fi: kansensus
+* **https://solscan.io/account/49UemFHmDeW3ESsJedyvir86F8EeHaksTBPnpJdTJdPw
